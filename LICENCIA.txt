@@ -1,0 +1,3 @@
+## Licencia
+Este proyecto fue desarrollado únicamente con fines académicos para la materia *Computación en Java*. 
+No se autoriza su uso para fines comerciales.
